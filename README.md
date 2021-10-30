@@ -1,6 +1,4 @@
-![giphy](https://user-images.githubusercontent.com/88852236/139520194-c9a45482-5307-4400-8186-11488b286712.gif)
-
-
+![3c2aad38e743710b31103fe2a410f734](https://user-images.githubusercontent.com/88852236/139520444-fe702b23-06a1-4ad6-8fb0-c5fe19151485.gif)
 
 
 <h1 align="center">Hi 👋, I'm Shahariar</h1>

@@ -1,4 +1,4 @@
-img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/TRklv98Fvo0Tu/giphy.gif"
+
 
 <h1 align="center">Hi 👋, I'm Shahariar</h1>
 <h3 align="center">I'm a student of Computer Sceince.</h3>

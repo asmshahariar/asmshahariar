@@ -1,7 +1,7 @@
-![3c2aad38e743710b31103fe2a410f734](https://user-images.githubusercontent.com/88852236/139520444-fe702b23-06a1-4ad6-8fb0-c5fe19151485.gif)
+   <p><img align="center" src="https://github.com/asmshahariar/asmshahariar/blob/main/211099.gif"
 
 
-<h1 align="center">Hi 👋, I'm Shahariar</h1>
+-<h1  align="center">Hi 👋, I'm Shahariar</h1>
 <h3 align="center">I'm a student of Computer Sceince.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmshahariar&label=Profile%20views&color=0e75b6&style=flat" alt="asmshahariar" /> </p>
@@ -13,8 +13,9 @@
 - 🌱 I’m currently learning **c++,JAVA,HTML,CSS**
 
 - 📫 How to reach me **shahariar.arian@gmail.com**
+ <p><img align="center" src="https://github.com/asmshahariar/asmshahariar/blob/main/giphy.gif"
 
-<h3 align="left">Connect with me:</h3>
+-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shahariararian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahariararian" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16395770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16395770" height="30" width="40" /></a>

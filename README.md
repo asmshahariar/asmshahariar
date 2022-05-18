@@ -1,4 +1,4 @@
-   <p><img align="center" src="https://github.com/asmshahariar/asmshahariar/blob/main/211099.gif"
+ <p><img src="https://github.com/asmshahariar/asmshahariar/blob/main/arian.gif"  width="1000" height="600"
 
 
 -<h1  align="center">Hi 👋, I'm Shahariar</h1>

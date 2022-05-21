@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/shahariararian" target="blank"><img src="https://img.shields.io/twitter/follow/shahariararian?logo=twitter&style=for-the-badge" alt="shahariararian" /></a> </p>
 
-- 🌱 I’m currently learning **c++,JAVA,HTML,CSS**
+- 🌱 I’m currently learning **HTML,CSS,JAVA**
 
 - 📫 How to reach me **shahariar.arian@gmail.com**
  <p><img align="center" src="https://github.com/asmshahariar/asmshahariar/blob/main/giphy.gif"

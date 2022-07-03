@@ -1,7 +1,7 @@
  <p><img src="https://github.com/asmshahariar/asmshahariar/blob/main/arian.gif"  width="1000" height="580"
 
 
--<h1  align="center">Hi 👋, I'm Shahariar</h1>
+-<h1  align="center">Hi , I'm Shahariar</h1>
 <h3 align="center">I'm a student of Computer Sceince.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmshahariar&label=Profile%20views&color=0e75b6&style=flat" alt="asmshahariar" /> </p>
